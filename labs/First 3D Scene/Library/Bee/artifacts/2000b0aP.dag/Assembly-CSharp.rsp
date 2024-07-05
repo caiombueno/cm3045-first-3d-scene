@@ -287,8 +287,9 @@
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.25f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.25f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/CameraPosition.cs"
-"Assets/Scripts/DaveMovement.cs"
+"Assets/Scripts/CharacterMovement.cs"
+"Assets/Scripts/DisableKeyboardInteraction.cs"
+"Assets/Scripts/ThirdPersonCamera.cs"
 -langversion:9.0
 /deterministic
 /optimize+
